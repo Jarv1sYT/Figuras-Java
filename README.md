@@ -26,6 +26,3 @@ Cada clase contiene:
 La clase **PruebaFiguras** funciona como punto de entrada (`main`) para generar objetos y mostrar los cálculos en consola.
 
 ---
-
-## 🧱 Estructura del Proyecto
-
